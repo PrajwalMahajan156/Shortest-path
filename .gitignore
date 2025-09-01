@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output (for frontend, if build created)
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings (e.g., VSCode)
+.vscode/
